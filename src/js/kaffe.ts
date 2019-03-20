@@ -10,13 +10,14 @@ abstract class Kaffe
     
     styrke(): string
     {
-        return "stærk";
+        return "mild";
     }
 
-    constructor() {
-        this.Rabat = 0;
+    constructor(rabat:number) {
+        this.Rabat = rabat;
     }
 
+    
 
 
 }

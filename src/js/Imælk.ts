@@ -1,0 +1,8 @@
+
+
+
+interface Imælk
+{
+    MlMælk(): number
+
+}
