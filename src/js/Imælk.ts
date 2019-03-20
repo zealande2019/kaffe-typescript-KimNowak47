@@ -1,7 +1,7 @@
 
 
 
-interface Imælk
+export interface Imælk
 {
     MlMælk(): number
 

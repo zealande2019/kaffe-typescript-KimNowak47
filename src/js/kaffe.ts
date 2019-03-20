@@ -2,7 +2,7 @@
 
 
 
-abstract class Kaffe
+export abstract class Kaffe
 {
     public Rabat:number;
 
